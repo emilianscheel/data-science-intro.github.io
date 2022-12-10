@@ -1,0 +1,38 @@
+
+
+
+Content
+
+- Installation 
+- Tagesschau Data
+- Import data into pandas
+- Editors
+    - Python file
+    - Jypiter Notebook
+    - Google Colab
+
+- Overview
+
+- Processing
+    - Filter
+    - New Features
+    - groupby
+    - agg
+    - unique
+    - sort_values
+
+More Methods
+    - value_counts
+    - reset_index
+    - rename_axis
+
+Plots
+    - bar
+    - barh
+    - heat
+    - scatter
+    - boxplot
+
+More Plots
+    - Labels
+    - Save to file
